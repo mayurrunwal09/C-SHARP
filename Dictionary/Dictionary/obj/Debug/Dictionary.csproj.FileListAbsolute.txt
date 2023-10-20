@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\TGSUser070\Desktop\Mayur\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\TGSUser070\Desktop\Mayur\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\TGSUser070\Desktop\Mayur\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
