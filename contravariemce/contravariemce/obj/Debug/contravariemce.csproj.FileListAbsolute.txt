@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\contravariemce\contravariemce\bin\Debug\contravariemce.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\contravariemce\contravariemce\bin\Debug\contravariemce.exe
+C:\Users\TGSUser070\Desktop\Mayur\contravariemce\contravariemce\bin\Debug\contravariemce.pdb
+C:\Users\TGSUser070\Desktop\Mayur\contravariemce\contravariemce\obj\Debug\contravariemce.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\contravariemce\contravariemce\obj\Debug\contravariemce.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\contravariemce\contravariemce\obj\Debug\contravariemce.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\contravariemce\contravariemce\obj\Debug\contravariemce.exe
+C:\Users\TGSUser070\Desktop\Mayur\contravariemce\contravariemce\obj\Debug\contravariemce.pdb
