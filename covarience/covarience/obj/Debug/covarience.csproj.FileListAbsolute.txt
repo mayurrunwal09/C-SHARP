@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\covarience\covarience\bin\Debug\covarience.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\covarience\covarience\bin\Debug\covarience.exe
+C:\Users\TGSUser070\Desktop\Mayur\covarience\covarience\bin\Debug\covarience.pdb
+C:\Users\TGSUser070\Desktop\Mayur\covarience\covarience\obj\Debug\covarience.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\covarience\covarience\obj\Debug\covarience.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\covarience\covarience\obj\Debug\covarience.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\covarience\covarience\obj\Debug\covarience.exe
+C:\Users\TGSUser070\Desktop\Mayur\covarience\covarience\obj\Debug\covarience.pdb
