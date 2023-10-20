@@ -1,0 +1,4 @@
+﻿using System;using System.Collections.Generic;using System.Linq;using System.Text;using System.Threading.Tasks;namespace ConsoleApp2{    internal class Program    {        public delegate void mydelegate(int x);
+        public static void even(int x)        {            if (x % 2 == 0)            {                Console.WriteLine("the num is even");            }            else
+            {                Console.WriteLine("the num is odd");
+            }        }        mydelegate obj = new mydelegate(even);        static void Main(string[] args)        {            Program p = new Program();            p.obj(3);        }    }}
