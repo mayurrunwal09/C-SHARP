@@ -1,0 +1,16 @@
+C:\Users\TGSUser070\Desktop\Mayur\queue\queue\bin\Debug\queue.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\queue\queue\bin\Debug\queue.exe
+C:\Users\TGSUser070\Desktop\Mayur\queue\queue\bin\Debug\queue.pdb
+C:\Users\TGSUser070\Desktop\Mayur\queue\queue\obj\Debug\queue.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\queue\queue\obj\Debug\queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\queue\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\queue\queue\obj\Debug\queue.exe
+C:\Users\TGSUser070\Desktop\Mayur\queue\queue\obj\Debug\queue.pdb
+C:\Users\TGSUser070\Desktop\html\queue\queue\bin\Debug\queue.exe.config
+C:\Users\TGSUser070\Desktop\html\queue\queue\bin\Debug\queue.exe
+C:\Users\TGSUser070\Desktop\html\queue\queue\bin\Debug\queue.pdb
+C:\Users\TGSUser070\Desktop\html\queue\queue\obj\Debug\queue.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\html\queue\queue\obj\Debug\queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\html\queue\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\html\queue\queue\obj\Debug\queue.exe
+C:\Users\TGSUser070\Desktop\html\queue\queue\obj\Debug\queue.pdb

@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\TGSUser070\Desktop\Mayur\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\TGSUser070\Desktop\Mayur\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\inheritance\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\TGSUser070\Desktop\Mayur\inheritance\inheritance\obj\Debug\inheritance.pdb
