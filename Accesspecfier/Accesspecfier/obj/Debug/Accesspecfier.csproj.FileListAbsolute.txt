@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\Accesspecfier\Accesspecfier\bin\Debug\Accesspecfier.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\Accesspecfier\Accesspecfier\bin\Debug\Accesspecfier.exe
+C:\Users\TGSUser070\Desktop\Mayur\Accesspecfier\Accesspecfier\bin\Debug\Accesspecfier.pdb
+C:\Users\TGSUser070\Desktop\Mayur\Accesspecfier\Accesspecfier\obj\Debug\Accesspecfier.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\Accesspecfier\Accesspecfier\obj\Debug\Accesspecfier.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\Accesspecfier\Accesspecfier\obj\Debug\Accesspecfier.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\Accesspecfier\Accesspecfier\obj\Debug\Accesspecfier.exe
+C:\Users\TGSUser070\Desktop\Mayur\Accesspecfier\Accesspecfier\obj\Debug\Accesspecfier.pdb
