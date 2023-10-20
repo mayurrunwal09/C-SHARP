@@ -1,0 +1,16 @@
+C:\Users\TGSUser070\Desktop\web services\Customattribute\Customattribute\bin\Debug\Customattribute.exe.config
+C:\Users\TGSUser070\Desktop\web services\Customattribute\Customattribute\bin\Debug\Customattribute.exe
+C:\Users\TGSUser070\Desktop\web services\Customattribute\Customattribute\bin\Debug\Customattribute.pdb
+C:\Users\TGSUser070\Desktop\web services\Customattribute\Customattribute\obj\Debug\Customattribute.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\web services\Customattribute\Customattribute\obj\Debug\Customattribute.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\web services\Customattribute\Customattribute\obj\Debug\Customattribute.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\web services\Customattribute\Customattribute\obj\Debug\Customattribute.exe
+C:\Users\TGSUser070\Desktop\web services\Customattribute\Customattribute\obj\Debug\Customattribute.pdb
+C:\Users\TGSUser070\Desktop\test\Customattribute\Customattribute\bin\Debug\Customattribute.exe.config
+C:\Users\TGSUser070\Desktop\test\Customattribute\Customattribute\bin\Debug\Customattribute.exe
+C:\Users\TGSUser070\Desktop\test\Customattribute\Customattribute\bin\Debug\Customattribute.pdb
+C:\Users\TGSUser070\Desktop\test\Customattribute\Customattribute\obj\Debug\Customattribute.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\test\Customattribute\Customattribute\obj\Debug\Customattribute.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\test\Customattribute\Customattribute\obj\Debug\Customattribute.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\test\Customattribute\Customattribute\obj\Debug\Customattribute.exe
+C:\Users\TGSUser070\Desktop\test\Customattribute\Customattribute\obj\Debug\Customattribute.pdb
