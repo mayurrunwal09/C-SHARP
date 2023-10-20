@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\TGSUser070\Desktop\Mayur\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\TGSUser070\Desktop\Mayur\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\TGSUser070\Desktop\Mayur\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
