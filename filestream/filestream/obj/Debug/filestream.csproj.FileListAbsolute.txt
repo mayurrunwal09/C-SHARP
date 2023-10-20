@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\filestream\filestream\bin\Debug\filestream.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\filestream\filestream\bin\Debug\filestream.exe
+C:\Users\TGSUser070\Desktop\Mayur\filestream\filestream\bin\Debug\filestream.pdb
+C:\Users\TGSUser070\Desktop\Mayur\filestream\filestream\obj\Debug\filestream.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\filestream\filestream\obj\Debug\filestream.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\filestream\filestream\obj\Debug\filestream.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\filestream\filestream\obj\Debug\filestream.exe
+C:\Users\TGSUser070\Desktop\Mayur\filestream\filestream\obj\Debug\filestream.pdb
