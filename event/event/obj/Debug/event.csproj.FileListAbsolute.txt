@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\event\event\bin\Debug\@event.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\event\event\bin\Debug\@event.exe
+C:\Users\TGSUser070\Desktop\Mayur\event\event\bin\Debug\@event.pdb
+C:\Users\TGSUser070\Desktop\Mayur\event\event\obj\Debug\event.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\event\event\obj\Debug\event.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\event\event\obj\Debug\event.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\event\event\obj\Debug\@event.exe
+C:\Users\TGSUser070\Desktop\Mayur\event\event\obj\Debug\@event.pdb
