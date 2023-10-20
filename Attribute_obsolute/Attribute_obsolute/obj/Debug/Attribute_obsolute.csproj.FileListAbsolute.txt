@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\Attribute_obsolute\Attribute_obsolute\obj\Debug\Attribute_obsolute.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\Attribute_obsolute\Attribute_obsolute\obj\Debug\Attribute_obsolute.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\Attribute_obsolute\Attribute_obsolute\obj\Debug\Attribute_obsolute.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\Attribute_obsolute\Attribute_obsolute\bin\Debug\Attribute_obsolute.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\Attribute_obsolute\Attribute_obsolute\bin\Debug\Attribute_obsolute.exe
+C:\Users\TGSUser070\Desktop\Mayur\Attribute_obsolute\Attribute_obsolute\bin\Debug\Attribute_obsolute.pdb
+C:\Users\TGSUser070\Desktop\Mayur\Attribute_obsolute\Attribute_obsolute\obj\Debug\Attribute_obsolute.exe
+C:\Users\TGSUser070\Desktop\Mayur\Attribute_obsolute\Attribute_obsolute\obj\Debug\Attribute_obsolute.pdb
