@@ -1,0 +1,16 @@
+C:\Users\TGSUser070\Desktop\Mayur\Tuple\Tuple\obj\Debug\Tuple.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\Tuple\Tuple\obj\Debug\Tuple.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\Tuple\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\Tuple\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\Tuple\Tuple\bin\Debug\Tuple.exe
+C:\Users\TGSUser070\Desktop\Mayur\Tuple\Tuple\bin\Debug\Tuple.pdb
+C:\Users\TGSUser070\Desktop\Mayur\Tuple\Tuple\obj\Debug\Tuple.exe
+C:\Users\TGSUser070\Desktop\Mayur\Tuple\Tuple\obj\Debug\Tuple.pdb
+C:\Users\TGSUser070\Desktop\html\Tuple\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\TGSUser070\Desktop\html\Tuple\Tuple\bin\Debug\Tuple.exe
+C:\Users\TGSUser070\Desktop\html\Tuple\Tuple\bin\Debug\Tuple.pdb
+C:\Users\TGSUser070\Desktop\html\Tuple\Tuple\obj\Debug\Tuple.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\html\Tuple\Tuple\obj\Debug\Tuple.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\html\Tuple\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\html\Tuple\Tuple\obj\Debug\Tuple.exe
+C:\Users\TGSUser070\Desktop\html\Tuple\Tuple\obj\Debug\Tuple.pdb
