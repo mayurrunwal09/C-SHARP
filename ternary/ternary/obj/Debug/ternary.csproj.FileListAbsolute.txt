@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\ternary\ternary\bin\Debug\ternary.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\ternary\ternary\bin\Debug\ternary.exe
+C:\Users\TGSUser070\Desktop\Mayur\ternary\ternary\bin\Debug\ternary.pdb
+C:\Users\TGSUser070\Desktop\Mayur\ternary\ternary\obj\Debug\ternary.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\ternary\ternary\obj\Debug\ternary.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\ternary\ternary\obj\Debug\ternary.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\ternary\ternary\obj\Debug\ternary.exe
+C:\Users\TGSUser070\Desktop\Mayur\ternary\ternary\obj\Debug\ternary.pdb
