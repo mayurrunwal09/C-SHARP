@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\composition\composition\bin\Debug\composition.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\composition\composition\bin\Debug\composition.exe
+C:\Users\TGSUser070\Desktop\Mayur\composition\composition\bin\Debug\composition.pdb
+C:\Users\TGSUser070\Desktop\Mayur\composition\composition\obj\Debug\composition.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\composition\composition\obj\Debug\composition.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\composition\composition\obj\Debug\composition.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\composition\composition\obj\Debug\composition.exe
+C:\Users\TGSUser070\Desktop\Mayur\composition\composition\obj\Debug\composition.pdb
