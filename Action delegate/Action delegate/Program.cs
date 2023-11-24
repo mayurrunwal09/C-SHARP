@@ -19,7 +19,7 @@ namespace Action_delegate
         public delegate void show(string message);
         static void Mine(string message)
         {
-            Console.WriteLine(""+message);
+            Console.WriteLine("Hello"+message);
 
         }
 
